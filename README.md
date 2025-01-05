@@ -1,10 +1,10 @@
-#Titanic Survival Prediction
+# Titanic Survival Prediction
 
-##Overview
+## Overview
 
 This project focuses on predicting the survival of passengers aboard the Titanic using machine learning algorithms. The dataset includes various features such as passenger class, age, sex, fare, and more, which are used to determine the likelihood of survival.
 
-##Dataset Description
+## Dataset Description
 
 The dataset used for this project contains the following columns:
 PassengerId: Unique identifier for each passenger
@@ -16,7 +16,7 @@ Age: Age of the passenger
 SibSp: Number of siblings/spouses aboard
 Parch: Number of parents/children aboard
 
-##Acknowledgments
+## Acknowledgments
 
 Kaggle Titanic Dataset for providing the dataset
 The data science community for continuous learning and support
