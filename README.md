@@ -20,8 +20,5 @@ The dataset used for this project contains the following columns:
 + Cabin: Cabin number
 + Embarked: Port of embarkation
 
-## Acknowledgments
 
-+ Kaggle Titanic Dataset for providing the dataset
-+ The data science community for continuous learning and support
 
